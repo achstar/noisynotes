@@ -1,0 +1,30 @@
+LED1: C3
+LED2: D3
+LED3: E3
+LED4: F3
+LED5: G3
+LED6: G#3
+LED7: A3
+LED8: A#3
+LED9: B3 (sharp)
+LED10: C4 (sharp)
+LED11: C#4
+LED12: D4
+LED13: D#4
+LED14: D#4 (sharp)
+LED15: E4 (sharp)
+LED16: F4
+LED17: F#4
+LED18: F#4 (sharp)
+LED19: G4
+LED20: G#4 (flat)
+LED21: G#4 (sharp)
+LED22: A4
+LED23: A4 (sharp)
+LED24: A#4 (flat)
+LED25: A#4
+LED26: B4 (flat)
+LED27: B4 (sharp)
+LED28: C5 (flat)
+LED29: C5 (sharp)
+LED30: C#5
